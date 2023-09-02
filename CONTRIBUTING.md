@@ -10,11 +10,11 @@ The project has a dedicated directory for the questions themselves. Each questio
 
 ```bash
 ├── questions/ # Main directory
-|   ├── science/ # Category
-|       ├── index.md # Category index file
+│   ├── science/ # Category
+│       ├── index.md # Category index file
 │       ├── question_1.md # Question
 │       ├── question_2.md
-|       ├── ...
+│       ├── ...
 │   ├── ...
 ```
 
