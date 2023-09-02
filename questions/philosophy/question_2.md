@@ -1,0 +1,1 @@
+How does your civilization perceive and understand the concept of mortality or the end of individual existence?

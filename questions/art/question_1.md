@@ -1,0 +1,1 @@
+Could you describe the forms of artistic expression that are most prevalent in your civilization? How do you use art to convey emotions, ideas, and cultural values? Are there any unique art forms or mediums specific to your world?

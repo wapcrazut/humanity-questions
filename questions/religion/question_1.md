@@ -1,0 +1,1 @@
+How has the potential existence of extraterrestrial life, such as humans on Earth, influenced your religious or philosophical beliefs, if at all? Have encounters with other intelligent species led to changes in your understanding of the cosmos and your place within it?

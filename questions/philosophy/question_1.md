@@ -1,0 +1,1 @@
+What is the purpose or meaning of the universe, according to your civilization's philosophy or belief system, and how does it relate to the existence of intelligent life?

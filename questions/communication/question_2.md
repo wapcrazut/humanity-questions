@@ -1,0 +1,1 @@
+How has your civilization developed the means to transmit and receive information across vast distances in space?

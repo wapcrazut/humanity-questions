@@ -1,0 +1,1 @@
+Do you have beliefs or knowledge related to an afterlife or existence beyond physical death within your civilization?

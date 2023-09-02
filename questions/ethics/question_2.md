@@ -1,0 +1,1 @@
+How does your species deal with the moral questions raised by the usage of cutting-edge technology and its possible effects on both your society and the cosmos at large? Is your civilization's technological development and use governed by any moral principles or guidelines?

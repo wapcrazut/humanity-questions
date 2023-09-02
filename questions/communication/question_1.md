@@ -1,0 +1,1 @@
+Could you describe the primary modes of communication within your civilization? How do you convey complex ideas, emotions, and knowledge to one another, and do these methods differ among different species or groups within your society?
