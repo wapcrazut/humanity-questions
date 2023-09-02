@@ -1,0 +1,8 @@
+# VSCode
+.vscode/*
+
+# Mac/OSX
+.DS_Stor
+
+# Environments
+.env
